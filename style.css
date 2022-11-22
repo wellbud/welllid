@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(62, 159, 200);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container{
+    background-color: blueviolet;
+}
+
+.buttons{
+    background-color: #4CAF50;
+    border-radius: 50%;
+}
